@@ -1,0 +1,12 @@
+# mytuple=("mango,"banana","orange")
+# mytuple=(1,5,6,8,5)
+# mytuple=(1,2,"madiha",True)
+# mytuple=(425,["ram","sam","neha"],"madiha")
+
+mytuple=("mango","banana","orange")
+print(mytuple[2])
+mytuple=(425,["ram","sam","neha"],"madiha")
+print(mytuple[1][2])
+mytuple=(1,2,3,4,5,6,7,8,9,10)
+print(mytuple[1:4])
+print(mytuple)
